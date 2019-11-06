@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\The M. Package\Assets\Scripts\Foreground.cs">
+    <Files>
+      <File FileName="..\The M. Package\Assets\Scripts\Foreground.cs" Line="14" Column="18" />
+      <File FileName="..\The M. Package\Assets\Scripts\Midplane.cs" Line="15" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
